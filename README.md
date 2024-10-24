@@ -8,7 +8,7 @@ Following are the pre-requisites tools that you'll need:
 
 
 ## Configure Git CLI
-- Open your favorite terminal.
+- Open your favorite terminal. Edit
 - Run `gh --version` to ensure that you have installed the Git CLI successfully.
 - Run `gh auth login --web` in your terminal and follow the steps given below:
   - First, it will ask for your preferred protocol for Git operations. I chose HTTPS, you can choose any.
